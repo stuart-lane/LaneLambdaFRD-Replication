@@ -1,0 +1,19 @@
+# outputs
+output/
+simulations/output/
+simulations/estimator_summary.R
+
+# LaTeX / generated artifacts (optional but likely useful)
+*.tex
+*.csv
+
+# Python cache
+__pycache__/
+*.pyc
+
+# R junk
+.Rhistory
+.RData
+
+# OS files
+.DS_Store
