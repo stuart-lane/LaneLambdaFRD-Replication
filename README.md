@@ -1,18 +1,3 @@
----
-title: "Replication Package for: The moment is here: a generalised class of estimators for fuzzy regression discontinuity designs"
-author: |
-  Stuart Lane  
-  University of Bristol  
-  stuart.lane@bristol.ac.uk
-date: "27 January 2026"
-output: 
-  pdf_document:
-    latex_engine: xelatex
-    toc: true
-    number_sections: true
----
-
-
 # Overview
 
 This package contains all code necessary to replicate the Monte Carlo 
